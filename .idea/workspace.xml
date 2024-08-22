@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="change module_2_2.py commit" />
+    <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724330800752</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="change module_2_2.py commit">
+      <option name="closed" value="true" />
+      <created>1724330958985</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724330958985</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +169,7 @@
     <MESSAGE value="made module_2_3.py commit" />
     <MESSAGE value="change module_2_3.py commit" />
     <MESSAGE value="made module_2_5.py commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="made module_2_5.py commit" />
+    <MESSAGE value="change module_2_2.py commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="change module_2_2.py commit" />
   </component>
 </project>
