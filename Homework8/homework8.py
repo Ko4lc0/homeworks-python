@@ -7,5 +7,3 @@ while index < len(numbers):
     else:
         index += 1
         break
-
-
