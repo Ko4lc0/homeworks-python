@@ -7,4 +7,3 @@ elif first == second and first != third or first == third and first != second:
     print(2)
 else:
     print(0)
-

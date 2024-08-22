@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="made module_2_4.py commit">
-      <change afterPath="$PROJECT_DIR$/module_2_2/Module_2_2.py" afterDir="false" />
+    <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="change module_2_3.py commit">
+      <change afterPath="$PROJECT_DIR$/module_2_5/module_2_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework8/homework8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework8/homework8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_2/Module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_2/Module_2_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,9 @@
     "Python.Module_2_2.executor": "Run",
     "Python.homework6.executor": "Run",
     "Python.homework8.executor": "Run",
+    "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -100,7 +102,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724259764891</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="made module_2_2.py commit">
+      <option name="closed" value="true" />
+      <created>1724321021907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724321021907</updated>
+    </task>
+    <task id="LOCAL-00007" summary="made module_2_3.py commit">
+      <option name="closed" value="true" />
+      <created>1724321364505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724321364505</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change module_2_3.py commit">
+      <option name="closed" value="true" />
+      <created>1724322743328</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724322743328</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +145,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="secondary commit" />
     <MESSAGE value="made module_2_4.py commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="made module_2_4.py commit" />
+    <MESSAGE value="made module_2_2.py commit" />
+    <MESSAGE value="made module_2_3.py commit" />
+    <MESSAGE value="change module_2_3.py commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="change module_2_3.py commit" />
   </component>
 </project>
