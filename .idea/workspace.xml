@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="" />
+    <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module_2_hard/module_2_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,19 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Homework9.executor": "Run",
-    "Python.Module_2_2.executor": "Run",
-    "Python.homework6.executor": "Run",
-    "Python.homework8.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Homework9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,8 +150,26 @@
       <option name="project" value="LOCAL" />
       <updated>1724330958985</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="change module_2_2.py commit">
+      <option name="closed" value="true" />
+      <created>1724331104755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724331104755</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
