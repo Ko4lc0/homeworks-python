@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_3_2/module_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_3/module_3_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     "Python.module_2_hard.executor": "Run",
     "Python.module_3_1.executor": "Run",
     "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -184,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725191384304</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="made module_3_2.py commit">
+      <option name="closed" value="true" />
+      <created>1725194934905</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725194934905</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -221,7 +230,8 @@
     <MESSAGE value="made module_2_hard.py commit" />
     <MESSAGE value="made module_3_1.py commit" />
     <MESSAGE value="change module_3_1.py commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="change module_3_1.py commit" />
+    <MESSAGE value="made module_3_2.py commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="made module_3_2.py commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
