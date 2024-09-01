@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce1ec30f-520d-4f7c-abf8-cb29d053266b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_3_1/module_3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_1/module_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_1/module_3_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
@@ -166,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724777798923</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="made module_3_1.py commit">
+      <option name="closed" value="true" />
+      <created>1724782828968</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724782828968</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -201,6 +210,7 @@
     <MESSAGE value="made module_2_5.py commit" />
     <MESSAGE value="change module_2_2.py commit" />
     <MESSAGE value="made module_2_hard.py commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="made module_2_hard.py commit" />
+    <MESSAGE value="made module_3_1.py commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="made module_3_1.py commit" />
   </component>
 </project>
